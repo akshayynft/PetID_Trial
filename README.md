@@ -1,4 +1,4 @@
-# This is a template for creating your own VC Gated Dapp
+#  own VC Gated Dapp for pet owners 
 
 This template spins up a dapp that is 
 
