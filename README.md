@@ -1,4 +1,4 @@
-#  own VC Gated Dapp for pet owners 
+#  VC Gated Dapp for pet owners with Pet ID
 
 This template spins up a dapp that is 
 
